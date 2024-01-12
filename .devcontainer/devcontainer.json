@@ -1,0 +1,16 @@
+{
+    "name":"API",
+    "build": {
+        "dockerfile": "Dockerfile",
+        "context": ".."},
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "eamodio.gitlens",
+                "streetsidesoftware.code-spell-checker",
+                "ms-toolsai.jupyter",
+                "ms-python.python"
+            ]
+        }
+    }
+}
