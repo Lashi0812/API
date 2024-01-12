@@ -9,7 +9,8 @@
                 "eamodio.gitlens",
                 "streetsidesoftware.code-spell-checker",
                 "ms-toolsai.jupyter",
-                "ms-python.python"
+                "ms-python.python",
+                "ms-python.black-formatter"
             ]
         }
     }
